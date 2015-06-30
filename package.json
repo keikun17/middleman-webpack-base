@@ -1,0 +1,8 @@
+{
+  "name": "middleman-webpack",
+  "dependencies": {
+    "webpack": ">= 1.2.0",
+    "jsx-loader": ">= 0.13.2",
+    "optimist": ">= 0.1.0"
+  }
+}
