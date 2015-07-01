@@ -19,7 +19,11 @@ module.exports = {
     ]
   },
 
+  // externals: {
+  //   'react': 'React'
+  // },
+  //
   resolve: {
-    extensions: ['', 'coffee', 'jsx', 'json', 'es6', 'js']
+    extensions: ['', '.coffee', '.jsx', '.json', '.es6', '.js']
   }
 }
